@@ -1,0 +1,9 @@
+{
+  "name": "shadowc2",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ShadowLab C2 server for security research",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
